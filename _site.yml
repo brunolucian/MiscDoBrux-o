@@ -1,7 +1,7 @@
 name: "."
-title: "Misc do Bruxão"
+title: "Material de aula - Msc Bruno Lucian"
 description: |
-  Misc do Bruxão
+  Materiais de aulas ministradas por mim, em diversos locais.
 output_dir: "docs"
 navbar:
   right:
